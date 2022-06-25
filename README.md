@@ -1,2 +1,3 @@
 # algorithm-study
-algo-boys
+
+algo-boys : jinho, siwon, seungoh
