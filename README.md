@@ -7,10 +7,10 @@
 ---
 
 # Stack
--스택 수열(실버2) https://www.acmicpc.net/problem/1874
--괄호(실버4) https://www.acmicpc.net/problem/9012
--쇠막대기(실버3) https://www.acmicpc.net/problem/10799
--외계인의 기타 연주(실버1) https://www.acmicpc.net/problem/2841
+*스택 수열(실버2) https://www.acmicpc.net/problem/1874
+*괄호(실버4) https://www.acmicpc.net/problem/9012
+*쇠막대기(실버3) https://www.acmicpc.net/problem/10799
+*외계인의 기타 연주(실버1) https://www.acmicpc.net/problem/2841
 
 # Queue
 
