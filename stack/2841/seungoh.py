@@ -1,28 +1,10 @@
-
-# count = 0
-# melody, pret = map(int, input().split())
-# curPos = [[0] for _ in range(melody+1)]
-# for _ in range(melody):
-#     m, p = map(int, input().split())
-#     if p > curPos[m][-1]:
-#         curPos[m].append(p)
-#         count += 1
-#     else:
-#         while(p < curPos[m][-1]):
-#             curPos[m].pop()
-#             count += 1
-#         if(p == curPos[m][-1]):
-#             continue
-#         curPos[m].append(p)
-#         count += 1
-# print(count)
-
+import sys
 
 count = 0
-melody, pret = map(int, input().split())
+melody, pret = map(int, sys.stdin.readline().split())
 curPos = dict() 
 for _ in range(melody):
-    m, p = map(int, input().split())
+    m, p = map(int, sys.stdin.readline().split())
     if m in curPos:
         target = curPos[m][-1]
         if p > target:
