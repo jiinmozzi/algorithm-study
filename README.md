@@ -6,7 +6,7 @@
 ## _seungoh_ <img src="./images/programmer.png" style="height: 25px; margin-left : 10px">
 ---
 # algo-girl
-## _nayoung_ <span style="height: 25px; margin-left : 10px">👩‍💻</span>
+## _nayoung_ <span style=" height: 25px; margin-left : 10px">👩‍💻</span>
 ---
 
 # Stack
