@@ -13,6 +13,10 @@
 * 외계인의 기타 연주(실버1) https://www.acmicpc.net/problem/2841
 
 # Queue
+* https://www.acmicpc.net/problem/2164
+* https://www.acmicpc.net/problem/1966
+* https://www.acmicpc.net/problem/14729
+* https://www.acmicpc.net/problem/1021
 
 # List
 
