@@ -5,6 +5,9 @@
 ## _siwon_ <img src="./images/programmer2.png" style="height: 25px; margin-left : 10px">
 ## _seungoh_ <img src="./images/programmer.png" style="height: 25px; margin-left : 10px">
 ---
+# algo-girl
+## _nayoung_ <span style=" height: 25px; margin-left : 10px">👩‍💻</span>
+---
 
 # Stack
 * 스택 수열(실버2) https://www.acmicpc.net/problem/1874
@@ -13,6 +16,10 @@
 * 외계인의 기타 연주(실버1) https://www.acmicpc.net/problem/2841
 
 # Queue
+* 카드 2 (실버 4) https://www.acmicpc.net/problem/2164
+* 프린터 큐(실버 3) https://www.acmicpc.net/problem/1966
+* 칠무해 (실버 5) https://www.acmicpc.net/problem/14729
+* 회전하는 큐 (실버 4) https://www.acmicpc.net/problem/1021
 
 # List
 
