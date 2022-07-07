@@ -9,6 +9,7 @@
 ## _nayoung_ <span style=" height:25px; margin-left : 10px">👩‍💻</span>
 ---
 
+
 # Stack
 * 스택 수열(실버2) https://www.acmicpc.net/problem/1874
 * 괄호(실버4) https://www.acmicpc.net/problem/9012
@@ -20,7 +21,6 @@
 * 프린터 큐(실버 3) https://www.acmicpc.net/problem/1966
 * 칠무해 (실버 5) https://www.acmicpc.net/problem/14729
 * 회전하는 큐 (실버 4) https://www.acmicpc.net/problem/1021
-
 # List
 
 # Tree
