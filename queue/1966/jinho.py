@@ -8,7 +8,7 @@ for _ in range(N):
     n, target = map(int, sys.stdin.readline().split())
     lst = list(map(int, sys.stdin.readline().split()))
     [queue.append(i) for i in lst]
-    
+
     count = 0
     while True:
         if queue[0] == max(queue) and target == 0:
