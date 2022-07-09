@@ -13,10 +13,9 @@ q = deque()
 for i in range(N):
     q.append(i+1)
 
-while(len(q) > 1):
+while len(q) > 1:
     q.popleft()
-    top = q.popleft()
-    q.append(top)
+    q.append(q.popleft())
 
 print(q[0])
 
