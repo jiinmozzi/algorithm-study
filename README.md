@@ -21,11 +21,17 @@
 * 프린터 큐(실버 3) https://www.acmicpc.net/problem/1966
 * 칠무해 (실버 5) https://www.acmicpc.net/problem/14729
 * 회전하는 큐 (실버 4) https://www.acmicpc.net/problem/1021
-# List
 
 # Tree
 
-# Graph
+# Graph (DFS,BFS)
+* 바이러스(실버3) https://www.acmicpc.net/problem/2606
+* 촌수계산(실버2) https://www.acmicpc.net/problem/2644
+* 연결 요소의 개수(실버2) https://www.acmicpc.net/problem/11724
+* 케빈 베이컨의 6단계 법칙(실버1) https://www.acmicpc.net/problem/1389
+## 도전문제
+* 토마토(골드5) https://www.acmicpc.net/problem/7569
+* 이분그래프(골드4) https://www.acmicpc.net/problem/1707
 
 # BFS/DFS
 
