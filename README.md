@@ -22,8 +22,6 @@
 * 칠무해 (실버 5) https://www.acmicpc.net/problem/14729
 * 회전하는 큐 (실버 4) https://www.acmicpc.net/problem/1021
 
-# Tree
-
 # Graph (DFS,BFS)
 * 바이러스(실버3) https://www.acmicpc.net/problem/2606
 * 촌수계산(실버2) https://www.acmicpc.net/problem/2644
@@ -33,6 +31,17 @@
 * 토마토(골드5) https://www.acmicpc.net/problem/7569
 * 이분그래프(골드4) https://www.acmicpc.net/problem/1707
 
+# Greedy
+* 설탕배달(실버4) https://www.acmicpc.net/problem/2839
+* A -> B(실버2) https://www.acmicpc.net/problem/16953
+* 잃어버린 괄호(실버2) https://www.acmicpc.net/problem/1541
+* 회의실 배정(실버1) https://www.acmicpc.net/problem/1931
+## 도전문제
+* 신입 사원(실버1) https://www.acmicpc.net/problem/1946
+* 카드 정렬하기(골드4) https://www.acmicpc.net/problem/1715
+
+# Tree
+
 # BFS/DFS
 
 # Heap
@@ -40,6 +49,7 @@
 # Dynamic Programming
 
 # Search
+
 
 
 
