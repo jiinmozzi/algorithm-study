@@ -21,7 +21,7 @@ for (let i=2; i<M+2; i++){
     matrix[y][x] = 1;
 }
 
-const bfs = (_matrix, idx) => {
+const jfs = (_matrix, idx) => {
     
     let done = true;
     const needsBfs = [];
@@ -41,7 +41,7 @@ const bfs = (_matrix, idx) => {
     }
 }
 
-bfs(matrix, 1);
+jfs(matrix, 1);
 console.log(result.length -1);
 
 //success
