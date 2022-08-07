@@ -27,7 +27,7 @@
 * 촌수계산(실버2) https://www.acmicpc.net/problem/2644
 * 연결 요소의 개수(실버2) https://www.acmicpc.net/problem/11724
 * 케빈 베이컨의 6단계 법칙(실버1) https://www.acmicpc.net/problem/1389
-## 도전문제
+### 도전문제
 * 토마토(골드5) https://www.acmicpc.net/problem/7569
 * 이분그래프(골드4) https://www.acmicpc.net/problem/1707
 
@@ -43,6 +43,13 @@
 # Tree
 
 # BFS/DFS
+* DFS와 BFS (실버 2) https://www.acmicpc.net/problem/1260
+* 미로 탐색 (실버 1) https://www.acmicpc.net/problem/2178
+* 나이트의 이동 (실버 1) https://www.acmicpc.net/problem/7562
+* 효율적인 해킹 (실버 1) https://www.acmicpc.net/problem/1325
+### 도전문제
+* 파이프 옮기기 1 (골드 5) https://www.acmicpc.net/problem/17070
+* 여행 가자 (골드 4) https://www.acmicpc.net/problem/1976
 
 # Heap
 
