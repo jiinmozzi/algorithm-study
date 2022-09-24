@@ -12,3 +12,5 @@ for _ in range(N):
 
 graph[0][1][1]['H'] = 1
 print(graph)
+
+## bfs 갈 수 있는 후보지는 3개
