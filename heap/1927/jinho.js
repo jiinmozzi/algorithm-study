@@ -47,7 +47,7 @@ const switchOnDeleteElement = (arr, index) => {
         return;
     }
     // only left baby node exists;
-    if (index*2 + 1> idx-1 && arr[index*2] < arr[index]){
+    if (index*2 + 1 > idx-1 && arr[index*2] < arr[index]){
         // console.log("returned 2");
         alignLeftNodes(arr, index);
         return;

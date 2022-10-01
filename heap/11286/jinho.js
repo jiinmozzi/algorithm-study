@@ -86,7 +86,7 @@ const switchOnDeleteElement = (arr, index) => {
         arr[index*2] = arr[index];
         arr[index] = tmp;
         return switchOnDeleteElement(arr, index*2);
-    }   else if ((Math.abs(arr[index]) > minBaby && Math.abs(arr[index*2+1])===minBaby) || (Math.abs(arr[index]) === minBaby && Math.abs(arr[index*2+1]) === minBaby && arr[index] > arr[index*2+1] )) {
+    }   else if ((Math.abs(arr[index]) > minBaby && Math.abs(arr[index*2+1]) === minBaby ) || (Math.abs(arr[index]) === minBaby && Math.abs(arr[index*2+1]) === minBaby && arr[index] > arr[index*2+1] )) {
         const tmp = arr[index*2+1];
         arr[index*2+1] = arr[index];
         arr[index] = tmp;
